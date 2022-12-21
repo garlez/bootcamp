@@ -1,0 +1,4 @@
+server:
+  port: 8082
+some:
+  value: valor en entorno de test
